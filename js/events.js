@@ -2,7 +2,7 @@ import { Controls } from './controls.js'
 import {
   navHome,
   navUniverse,
-  navExploration
+  navExploration,
 } from './elements.js'
 
 const controls = new Controls()

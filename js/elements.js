@@ -5,5 +5,5 @@ const navExploration = document.querySelector('.exploration')
 export {
   navHome,
   navExploration,
-  navUniverse
+  navUniverse,
 }

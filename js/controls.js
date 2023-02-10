@@ -1,7 +1,7 @@
 import {
   navHome,
   navUniverse,
-  navExploration
+  navExploration,
 } from './elements.js'
 
 export class Controls {

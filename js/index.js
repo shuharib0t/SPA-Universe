@@ -11,4 +11,4 @@ router.handle()
 
 window.onpopstate = () => router.handle()
 window.route = () => router.route()
-
+window.show = () => router.show()
